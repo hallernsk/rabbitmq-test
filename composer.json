@@ -1,0 +1,9 @@
+{
+    "name": "rabbitmq/tutorial",
+    "type": "project",
+    "description": "test rabbitmq",
+    "license": "MIT",
+    "require": {
+        "php-amqplib/php-amqplib": "^3.6"
+    }
+}
